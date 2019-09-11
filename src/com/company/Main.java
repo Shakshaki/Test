@@ -6,6 +6,7 @@ public class Main {
 
         System.out.println("Hello");
         System.out.println("yo yo angelo dude");
+        System.out.println("Ååh hvad sker dansker");
         for(int i = 0; i < 5; i++){
             System.out.println(i);
         }
